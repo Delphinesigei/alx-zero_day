@@ -1,1 +1,3 @@
-this is a new README
+echo "Practising" > README.md
+
+This change was made on github
